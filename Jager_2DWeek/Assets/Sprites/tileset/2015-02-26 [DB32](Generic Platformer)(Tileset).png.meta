@@ -434,6 +434,438 @@ TextureImporter:
   - first:
       213: -7916255139137493425
     second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_143
+  - first:
+      213: -324808452189406053
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_0
+  - first:
+      213: -7601763985445393846
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_1
+  - first:
+      213: -9144866162145011802
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_2
+  - first:
+      213: -9028006647094561284
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_3
+  - first:
+      213: 5886321398425855829
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_4
+  - first:
+      213: -2667238122562434169
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_5
+  - first:
+      213: 7077942674728545574
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_6
+  - first:
+      213: -3593475108653308392
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_7
+  - first:
+      213: 5921627136287736769
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_8
+  - first:
+      213: -6689613766311982589
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_9
+  - first:
+      213: 2741487436407859530
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_10
+  - first:
+      213: 8579500383923287987
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_11
+  - first:
+      213: -3548147456574578257
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_12
+  - first:
+      213: 3676292982161181458
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_13
+  - first:
+      213: -842236433748925551
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_14
+  - first:
+      213: -6789173291859719525
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_15
+  - first:
+      213: 8994085539109798813
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_16
+  - first:
+      213: -1119450186521460329
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_17
+  - first:
+      213: 5148701882593350357
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_18
+  - first:
+      213: 8305060942360570056
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_19
+  - first:
+      213: 5601655638222438768
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_20
+  - first:
+      213: -622921005023041759
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_21
+  - first:
+      213: 7622156580056617478
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_22
+  - first:
+      213: -5847965656549821173
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_23
+  - first:
+      213: 618874250073387755
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_24
+  - first:
+      213: -3277178373014800409
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_25
+  - first:
+      213: -8481184745918613580
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_26
+  - first:
+      213: -3152261222966431304
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_27
+  - first:
+      213: -2572390888654091849
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_28
+  - first:
+      213: 4454614433730665916
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_29
+  - first:
+      213: -3330335785771626796
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_30
+  - first:
+      213: 4191041655975348779
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_31
+  - first:
+      213: -7045603991060832513
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_32
+  - first:
+      213: 5221097795219750472
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_33
+  - first:
+      213: 6378056500406877748
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_34
+  - first:
+      213: 1728645309357231529
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_35
+  - first:
+      213: -3682323344892324816
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_36
+  - first:
+      213: 541028075388625041
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_37
+  - first:
+      213: 7212533656520250822
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_38
+  - first:
+      213: 5800162865072507628
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_39
+  - first:
+      213: -1537066030168203230
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_40
+  - first:
+      213: 2632643796203871974
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_41
+  - first:
+      213: 8608316215351862076
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_42
+  - first:
+      213: 3061717828199263771
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_43
+  - first:
+      213: 265568476553287301
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_44
+  - first:
+      213: -5664474034589208605
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_45
+  - first:
+      213: 2441365121367032008
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_46
+  - first:
+      213: -6481664048810480642
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_47
+  - first:
+      213: 5123452896070550607
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_48
+  - first:
+      213: -7776656523370751354
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_49
+  - first:
+      213: 4055489744505222366
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_50
+  - first:
+      213: 4852668649102683192
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_51
+  - first:
+      213: 2005191852160198545
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_52
+  - first:
+      213: 6595577405193945077
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_53
+  - first:
+      213: -6588137269047237112
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_54
+  - first:
+      213: -4832818337760187409
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_55
+  - first:
+      213: 66505521479009119
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_56
+  - first:
+      213: 458852711629271279
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_57
+  - first:
+      213: 2942480118233171204
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_58
+  - first:
+      213: -6776265959276358694
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_59
+  - first:
+      213: -5924195410438286126
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_60
+  - first:
+      213: -7431062085550471892
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_61
+  - first:
+      213: -7090524907167820649
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_62
+  - first:
+      213: -1764404850916615252
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_63
+  - first:
+      213: 6042264652989620765
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_64
+  - first:
+      213: -2170916443570812870
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_65
+  - first:
+      213: 3240049359819806034
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_66
+  - first:
+      213: -6107092610399302181
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_67
+  - first:
+      213: -8225061587752789796
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_68
+  - first:
+      213: 5814007683740819076
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_69
+  - first:
+      213: -8446390997207820203
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_70
+  - first:
+      213: -2944129976034114804
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_71
+  - first:
+      213: 4936224470495966096
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_72
+  - first:
+      213: -7528026493110818048
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_73
+  - first:
+      213: -7515600447865844096
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_74
+  - first:
+      213: 924773859379835419
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_75
+  - first:
+      213: -9199232073802068367
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_76
+  - first:
+      213: 3783283587406201870
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_77
+  - first:
+      213: 7499771722355524789
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_78
+  - first:
+      213: 3243025798877654629
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_79
+  - first:
+      213: 7674576101535543432
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_80
+  - first:
+      213: -5175861244226565589
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_81
+  - first:
+      213: 3863992305836373592
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_82
+  - first:
+      213: 3161157449558517626
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_83
+  - first:
+      213: 820306511085226425
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_84
+  - first:
+      213: 5153332787978149101
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_85
+  - first:
+      213: 718086545795092216
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_86
+  - first:
+      213: 3717421793961139207
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_87
+  - first:
+      213: 1089213431341676962
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_88
+  - first:
+      213: -1547007509133172132
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_89
+  - first:
+      213: -7290646241235815213
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_90
+  - first:
+      213: 860411559832721154
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_91
+  - first:
+      213: -6713713725255924621
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_92
+  - first:
+      213: -5747337495221930582
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_93
+  - first:
+      213: -8086123949860153154
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_94
+  - first:
+      213: -6519263906411848564
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_95
+  - first:
+      213: -3174535406988709758
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_96
+  - first:
+      213: 7714923621073408891
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_97
+  - first:
+      213: -7787240099697200995
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_98
+  - first:
+      213: -3704892734603459679
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_99
+  - first:
+      213: 1840243408079028186
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_100
+  - first:
+      213: 6765529503065823960
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_101
+  - first:
+      213: 8277712284698336138
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_102
+  - first:
+      213: 3053627841813847588
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_103
+  - first:
+      213: -5162718760667827829
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_104
+  - first:
+      213: -4407414718993467400
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_105
+  - first:
+      213: -2260017248690330675
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_106
+  - first:
+      213: 4993018144379700738
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_107
+  - first:
+      213: -636615059733255026
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_108
+  - first:
+      213: 5733129328365202481
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_109
+  - first:
+      213: 904894624244008697
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_110
+  - first:
+      213: 6082102440447802313
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_111
+  - first:
+      213: -9197799732374337377
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_112
+  - first:
+      213: -7115891574969117788
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_113
+  - first:
+      213: -8118296136562289330
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_114
+  - first:
+      213: 5011979548877362169
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_115
+  - first:
+      213: -4758431210606341729
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_116
+  - first:
+      213: 3013958286912351974
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_117
+  - first:
+      213: -1002077670615581660
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_118
+  - first:
+      213: 2080712143399130228
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_119
+  - first:
+      213: 2015691840981797492
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_120
+  - first:
+      213: 8162677650955439091
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_121
+  - first:
+      213: -9102814217242032653
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_122
+  - first:
+      213: -1523961805023571150
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_123
+  - first:
+      213: 849279100273904145
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_124
+  - first:
+      213: -6150734175441628981
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_125
+  - first:
+      213: 1845069519262316956
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_126
+  - first:
+      213: 2996958658161455974
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_127
+  - first:
+      213: 8885407147206275389
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_128
+  - first:
+      213: -2383002748423654244
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_129
+  - first:
+      213: 980883151437949391
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_130
+  - first:
+      213: 9114811662740256203
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_131
+  - first:
+      213: -2255074142154526819
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_132
+  - first:
+      213: 6608015575309990375
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_133
+  - first:
+      213: 3396048374921042655
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_134
+  - first:
+      213: 26886848118939372
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_135
+  - first:
+      213: -6063741804624039290
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_136
+  - first:
+      213: -7386290870744991763
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_137
+  - first:
+      213: -8567916898811804709
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_138
+  - first:
+      213: -4497627044564638217
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_139
+  - first:
+      213: -64765958293008748
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_140
+  - first:
+      213: -275267294452689126
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_141
+  - first:
+      213: 3512950403245929899
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_142
+  - first:
+      213: -1459078525401232481
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset)_143
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -464,7 +896,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -498,7 +930,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -510,7 +942,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
