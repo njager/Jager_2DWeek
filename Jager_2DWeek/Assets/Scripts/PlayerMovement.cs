@@ -1,16 +1,18 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using TMPro;
 public class PlayerMovement : MonoBehaviour
 {
     //member variables
     Rigidbody2D rB2D;
+    private int count;
 
     //public variables
     public float runSpeed;
     public float jumpSpeed;
-    
+    public TextMeshProUGUI countText;
+
     public Animator animator;
     public SpriteRenderer spriteRenderer;
 
@@ -18,7 +20,15 @@ public class PlayerMovement : MonoBehaviour
     void Start()
     {
         rB2D = GetComponent<Rigidbody2D>();
+        SetCountText();
     }
+
+    //Updates count text with current data, displays win text
+    void SetCountText()
+    {
+        countText.text = "Count: " + count.ToString();
+    }
+
 
     // Update is called once per frame
     void Update()

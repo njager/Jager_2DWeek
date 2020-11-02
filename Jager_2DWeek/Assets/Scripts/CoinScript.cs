@@ -1,28 +1,27 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
 public class CoinScript : MonoBehaviour
 {
-    //variables
+    //private variables
     GameObject coinObject;
-    public int count;
+    private int count;
+    
+    //public variables
     public TextMeshProUGUI countText;
 
     // Start is called before the first frame update
     void Start()
     {
-       
+        SetCountText();
     }
 
     //Updates count text with current data, displays win text
     void SetCountText()
     {
         countText.text = "Count: " + count.ToString();
-        if (count >= 19)
-        {
-            winTextObject.SetActive(true);
-        }
     }
 
     // Update is called once per frame
