@@ -72,4 +72,13 @@ public class PlayerMovement : MonoBehaviour
     {
         rB2D.velocity = new Vector2(rB2D.velocity.x, jumpSpeed);
     }
+
+    //collect coin and add score
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("PickUp"))
+        {
+
+        }
+    }
 }
