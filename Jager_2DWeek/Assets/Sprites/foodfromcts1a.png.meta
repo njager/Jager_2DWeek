@@ -1,7 +1,1132 @@
 fileFormatVersion: 2
 guid: 833a45d069b43ed429f9b35176ae79bf
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 647891015154573654
+    second: foodfromcts1a_0
+  - first:
+      213: -6993642869392883456
+    second: foodfromcts1a_1
+  - first:
+      213: 5555820596778272039
+    second: foodfromcts1a_2
+  - first:
+      213: 5089503986165287185
+    second: foodfromcts1a_3
+  - first:
+      213: 11281038472162139
+    second: foodfromcts1a_4
+  - first:
+      213: 5919692012168724848
+    second: foodfromcts1a_5
+  - first:
+      213: -4275431410189661206
+    second: foodfromcts1a_6
+  - first:
+      213: -2453929990395310808
+    second: foodfromcts1a_7
+  - first:
+      213: -6014858837011708838
+    second: foodfromcts1a_8
+  - first:
+      213: -2972560190712250285
+    second: foodfromcts1a_9
+  - first:
+      213: -1871744056426654167
+    second: foodfromcts1a_10
+  - first:
+      213: 3992523333565260652
+    second: foodfromcts1a_11
+  - first:
+      213: 336557096926834404
+    second: foodfromcts1a_12
+  - first:
+      213: 7909188908809178319
+    second: foodfromcts1a_13
+  - first:
+      213: 1392141915243378634
+    second: foodfromcts1a_14
+  - first:
+      213: -6657153918304014307
+    second: foodfromcts1a_15
+  - first:
+      213: 4861907846750477865
+    second: foodfromcts1a_16
+  - first:
+      213: 4639583954097901950
+    second: foodfromcts1a_17
+  - first:
+      213: -8899145124749647178
+    second: foodfromcts1a_18
+  - first:
+      213: 3393843649377391441
+    second: foodfromcts1a_19
+  - first:
+      213: -781994268511947399
+    second: foodfromcts1a_20
+  - first:
+      213: -7559072102814585207
+    second: foodfromcts1a_21
+  - first:
+      213: -7019844527314009480
+    second: foodfromcts1a_22
+  - first:
+      213: 9010970422528971470
+    second: foodfromcts1a_23
+  - first:
+      213: -5006886467187933924
+    second: foodfromcts1a_24
+  - first:
+      213: 5815076860920459261
+    second: foodfromcts1a_25
+  - first:
+      213: 3951331121848670560
+    second: foodfromcts1a_26
+  - first:
+      213: 1617634445685783916
+    second: foodfromcts1a_27
+  - first:
+      213: 8315490192282769254
+    second: foodfromcts1a_28
+  - first:
+      213: 153991533393355806
+    second: foodfromcts1a_29
+  - first:
+      213: -3953759216315031649
+    second: foodfromcts1a_30
+  - first:
+      213: 2757635382481601884
+    second: foodfromcts1a_31
+  - first:
+      213: -1212922731204473052
+    second: foodfromcts1a_32
+  - first:
+      213: 1002549769957561357
+    second: foodfromcts1a_33
+  - first:
+      213: 4476892289436864916
+    second: foodfromcts1a_34
+  - first:
+      213: -5856914629112847024
+    second: foodfromcts1a_35
+  - first:
+      213: 3054901174560261062
+    second: foodfromcts1a_36
+  - first:
+      213: -3396461329796575730
+    second: foodfromcts1a_37
+  - first:
+      213: -5797038614990049211
+    second: foodfromcts1a_38
+  - first:
+      213: 2596960410483880352
+    second: foodfromcts1a_39
+  - first:
+      213: -1604602183962419030
+    second: foodfromcts1a_40
+  - first:
+      213: -6305969457393057593
+    second: foodfromcts1a_41
+  - first:
+      213: -4761006257178705905
+    second: foodfromcts1a_42
+  - first:
+      213: -1994341645605818157
+    second: foodfromcts1a_43
+  - first:
+      213: -1958334082623144591
+    second: foodfromcts1a_44
+  - first:
+      213: -1822968443609317687
+    second: foodfromcts1a_45
+  - first:
+      213: 273981978473831043
+    second: foodfromcts1a_46
+  - first:
+      213: 1740307957101013176
+    second: foodfromcts1a_47
+  - first:
+      213: -4318977833451939427
+    second: foodfromcts1a_48
+  - first:
+      213: 8803617000828304689
+    second: foodfromcts1a_49
+  - first:
+      213: 2421193001356276416
+    second: foodfromcts1a_50
+  - first:
+      213: -211924356059424377
+    second: foodfromcts1a_51
+  - first:
+      213: 1208579170803600461
+    second: foodfromcts1a_52
+  - first:
+      213: -7787025639900595275
+    second: foodfromcts1a_53
+  - first:
+      213: 6229260156197464297
+    second: foodfromcts1a_54
+  - first:
+      213: 6069186938844061671
+    second: foodfromcts1a_55
+  - first:
+      213: 3318344306185065177
+    second: foodfromcts1a_56
+  - first:
+      213: -8410307149383489915
+    second: foodfromcts1a_57
+  - first:
+      213: -7511485761506291073
+    second: foodfromcts1a_58
+  - first:
+      213: 4425698434742443335
+    second: foodfromcts1a_59
+  - first:
+      213: -1367669784751867091
+    second: foodfromcts1a_60
+  - first:
+      213: -5803921443363546469
+    second: foodfromcts1a_61
+  - first:
+      213: -2943371233109483193
+    second: foodfromcts1a_62
+  - first:
+      213: -818574957309682198
+    second: foodfromcts1a_63
+  - first:
+      213: 1079884973543317260
+    second: foodfromcts1a_64
+  - first:
+      213: -5733898594800167199
+    second: foodfromcts1a_65
+  - first:
+      213: 9104659928674217729
+    second: foodfromcts1a_66
+  - first:
+      213: 7595666313251094034
+    second: foodfromcts1a_67
+  - first:
+      213: 1592847575984567265
+    second: foodfromcts1a_68
+  - first:
+      213: 5966334533048648270
+    second: foodfromcts1a_69
+  - first:
+      213: -1235947622486576179
+    second: foodfromcts1a_70
+  - first:
+      213: 6080143757263598443
+    second: foodfromcts1a_71
+  - first:
+      213: -9029328822204048466
+    second: foodfromcts1a_72
+  - first:
+      213: -5151031692273166374
+    second: foodfromcts1a_73
+  - first:
+      213: -5526012422723635501
+    second: foodfromcts1a_74
+  - first:
+      213: 2850489598708851991
+    second: foodfromcts1a_75
+  - first:
+      213: 3372018022074250854
+    second: foodfromcts1a_76
+  - first:
+      213: 8708404857173164849
+    second: foodfromcts1a_77
+  - first:
+      213: 6191335575957493247
+    second: foodfromcts1a_78
+  - first:
+      213: -6103927425785416101
+    second: foodfromcts1a_79
+  - first:
+      213: -6972931634093241706
+    second: foodfromcts1a_80
+  - first:
+      213: -6129893106946457037
+    second: foodfromcts1a_81
+  - first:
+      213: -6156301412243389127
+    second: foodfromcts1a_82
+  - first:
+      213: 6001355615894679901
+    second: foodfromcts1a_83
+  - first:
+      213: 3407831417935755733
+    second: foodfromcts1a_84
+  - first:
+      213: -1990192164369542393
+    second: foodfromcts1a_85
+  - first:
+      213: -2147015732417980938
+    second: foodfromcts1a_86
+  - first:
+      213: 4678727721249881157
+    second: foodfromcts1a_87
+  - first:
+      213: -2440249310526866893
+    second: foodfromcts1a_88
+  - first:
+      213: -102591404689437567
+    second: foodfromcts1a_89
+  - first:
+      213: -99161877998287372
+    second: foodfromcts1a_90
+  - first:
+      213: 5964826510872692224
+    second: foodfromcts1a_91
+  - first:
+      213: -5014965371575992211
+    second: foodfromcts1a_92
+  - first:
+      213: -1197236677412363892
+    second: foodfromcts1a_93
+  - first:
+      213: 8322995233571933748
+    second: foodfromcts1a_94
+  - first:
+      213: -9106687289153719309
+    second: foodfromcts1a_95
+  - first:
+      213: -4685563804658045481
+    second: foodfromcts1a_96
+  - first:
+      213: 6785335616957827819
+    second: foodfromcts1a_97
+  - first:
+      213: 3449792527721705748
+    second: foodfromcts1a_98
+  - first:
+      213: -852265860635655498
+    second: foodfromcts1a_99
+  - first:
+      213: 6835747759180628122
+    second: foodfromcts1a_100
+  - first:
+      213: -529373800764669661
+    second: foodfromcts1a_101
+  - first:
+      213: 2452100678154566972
+    second: foodfromcts1a_102
+  - first:
+      213: 5885137818509512099
+    second: foodfromcts1a_103
+  - first:
+      213: -7688122144092830842
+    second: foodfromcts1a_104
+  - first:
+      213: -46752901468144487
+    second: foodfromcts1a_105
+  - first:
+      213: -7319051775287351892
+    second: foodfromcts1a_106
+  - first:
+      213: 4166386217167503815
+    second: foodfromcts1a_107
+  - first:
+      213: -203241144365834043
+    second: foodfromcts1a_108
+  - first:
+      213: 453768483096092777
+    second: foodfromcts1a_109
+  - first:
+      213: 257475226112902973
+    second: foodfromcts1a_110
+  - first:
+      213: -1956363889072566453
+    second: foodfromcts1a_111
+  - first:
+      213: -8018088410986784481
+    second: foodfromcts1a_112
+  - first:
+      213: 6422548194435787429
+    second: foodfromcts1a_113
+  - first:
+      213: -8523322598872533830
+    second: foodfromcts1a_114
+  - first:
+      213: 1487013218751454559
+    second: foodfromcts1a_115
+  - first:
+      213: -4876774056524839380
+    second: foodfromcts1a_116
+  - first:
+      213: -8766729238868003751
+    second: foodfromcts1a_117
+  - first:
+      213: 7717309738536631083
+    second: foodfromcts1a_118
+  - first:
+      213: 4105823951086738956
+    second: foodfromcts1a_119
+  - first:
+      213: -947829390823814022
+    second: foodfromcts1a_120
+  - first:
+      213: -167498111564604920
+    second: foodfromcts1a_121
+  - first:
+      213: -138604097932356228
+    second: foodfromcts1a_122
+  - first:
+      213: 8272313741071675443
+    second: foodfromcts1a_123
+  - first:
+      213: 2705011806580927174
+    second: foodfromcts1a_124
+  - first:
+      213: -7845460252501021336
+    second: foodfromcts1a_125
+  - first:
+      213: -6285008743881859668
+    second: foodfromcts1a_126
+  - first:
+      213: -3993220563344815466
+    second: foodfromcts1a_127
+  - first:
+      213: -9033495712359701262
+    second: foodfromcts1a_128
+  - first:
+      213: -4167387969272453374
+    second: foodfromcts1a_129
+  - first:
+      213: 1401986722692501135
+    second: foodfromcts1a_130
+  - first:
+      213: -7248177005168771920
+    second: foodfromcts1a_131
+  - first:
+      213: 611661969936863174
+    second: foodfromcts1a_132
+  - first:
+      213: -1354434907583644913
+    second: foodfromcts1a_133
+  - first:
+      213: -7742564930524824510
+    second: foodfromcts1a_134
+  - first:
+      213: -2786060551693600949
+    second: foodfromcts1a_135
+  - first:
+      213: 7573402193614177446
+    second: foodfromcts1a_136
+  - first:
+      213: -2189038505326365762
+    second: foodfromcts1a_137
+  - first:
+      213: 4944625593362609091
+    second: foodfromcts1a_138
+  - first:
+      213: 432047871831461194
+    second: foodfromcts1a_139
+  - first:
+      213: -2191386248525758468
+    second: foodfromcts1a_140
+  - first:
+      213: -1816420026927762669
+    second: foodfromcts1a_141
+  - first:
+      213: -1631777975383771286
+    second: foodfromcts1a_142
+  - first:
+      213: -3167363900375869580
+    second: foodfromcts1a_143
+  - first:
+      213: -1435874470785603006
+    second: foodfromcts1a_144
+  - first:
+      213: 2333085334619682905
+    second: foodfromcts1a_145
+  - first:
+      213: 2807066735256731179
+    second: foodfromcts1a_146
+  - first:
+      213: -8122164737633044421
+    second: foodfromcts1a_147
+  - first:
+      213: 4847986444867886405
+    second: foodfromcts1a_148
+  - first:
+      213: -6028779590741731359
+    second: foodfromcts1a_149
+  - first:
+      213: 2375579815538489737
+    second: foodfromcts1a_150
+  - first:
+      213: -996193582658516385
+    second: foodfromcts1a_151
+  - first:
+      213: -2469192956632731285
+    second: foodfromcts1a_152
+  - first:
+      213: -1523434919717832353
+    second: foodfromcts1a_153
+  - first:
+      213: -4610300956920345531
+    second: foodfromcts1a_154
+  - first:
+      213: 4144096048234307446
+    second: foodfromcts1a_155
+  - first:
+      213: -7879026208858069936
+    second: foodfromcts1a_156
+  - first:
+      213: 7767107504190897486
+    second: foodfromcts1a_157
+  - first:
+      213: 874801666425746388
+    second: foodfromcts1a_158
+  - first:
+      213: -8874495176454625274
+    second: foodfromcts1a_159
+  - first:
+      213: 8168192843094901260
+    second: foodfromcts1a_160
+  - first:
+      213: -5058911743393307863
+    second: foodfromcts1a_161
+  - first:
+      213: 2752384549234264862
+    second: foodfromcts1a_162
+  - first:
+      213: 5631100234319787247
+    second: foodfromcts1a_163
+  - first:
+      213: -2407977130358997080
+    second: foodfromcts1a_164
+  - first:
+      213: -2287595166242526218
+    second: foodfromcts1a_165
+  - first:
+      213: 469894498866557951
+    second: foodfromcts1a_166
+  - first:
+      213: -6797838154737066969
+    second: foodfromcts1a_167
+  - first:
+      213: 7545272577880274425
+    second: foodfromcts1a_168
+  - first:
+      213: 8419359161943289363
+    second: foodfromcts1a_169
+  - first:
+      213: -7163628480347078201
+    second: foodfromcts1a_170
+  - first:
+      213: -7116933648131005644
+    second: foodfromcts1a_171
+  - first:
+      213: -5140434218196250087
+    second: foodfromcts1a_172
+  - first:
+      213: -6320104014072557639
+    second: foodfromcts1a_173
+  - first:
+      213: 7418534229936663276
+    second: foodfromcts1a_174
+  - first:
+      213: 3357092290005564328
+    second: foodfromcts1a_175
+  - first:
+      213: -4318927915294928108
+    second: foodfromcts1a_176
+  - first:
+      213: -827701936842513251
+    second: foodfromcts1a_177
+  - first:
+      213: 363388474600994698
+    second: foodfromcts1a_178
+  - first:
+      213: -3590044253607772403
+    second: foodfromcts1a_179
+  - first:
+      213: 5995735320114530335
+    second: foodfromcts1a_180
+  - first:
+      213: 3370902418472505975
+    second: foodfromcts1a_181
+  - first:
+      213: 1850699485505504595
+    second: foodfromcts1a_182
+  - first:
+      213: -1874446121385615976
+    second: foodfromcts1a_183
+  - first:
+      213: 5415371457117157999
+    second: foodfromcts1a_184
+  - first:
+      213: 8497529220019060748
+    second: foodfromcts1a_185
+  - first:
+      213: 1580964745284907082
+    second: foodfromcts1a_186
+  - first:
+      213: 3446444021237533711
+    second: foodfromcts1a_187
+  - first:
+      213: 8529392447555512233
+    second: foodfromcts1a_188
+  - first:
+      213: -7378836857884997752
+    second: foodfromcts1a_189
+  - first:
+      213: -3189343181117902648
+    second: foodfromcts1a_190
+  - first:
+      213: 5065896300780577288
+    second: foodfromcts1a_191
+  - first:
+      213: -8438496233559288494
+    second: foodfromcts1a_192
+  - first:
+      213: 2127876532274620472
+    second: foodfromcts1a_193
+  - first:
+      213: 8780875427755038045
+    second: foodfromcts1a_194
+  - first:
+      213: 1057973168466217680
+    second: foodfromcts1a_195
+  - first:
+      213: 6235759498612373252
+    second: foodfromcts1a_196
+  - first:
+      213: 5223340596855485472
+    second: foodfromcts1a_197
+  - first:
+      213: 2972316310724574814
+    second: foodfromcts1a_198
+  - first:
+      213: -3727000706824660537
+    second: foodfromcts1a_199
+  - first:
+      213: 5286287819481412858
+    second: foodfromcts1a_200
+  - first:
+      213: 7153156894495221397
+    second: foodfromcts1a_201
+  - first:
+      213: -2610910390447910063
+    second: foodfromcts1a_202
+  - first:
+      213: -3667668367643112448
+    second: foodfromcts1a_203
+  - first:
+      213: 8665391551141392217
+    second: foodfromcts1a_204
+  - first:
+      213: -7239164168207436895
+    second: foodfromcts1a_205
+  - first:
+      213: -7570639445136243237
+    second: foodfromcts1a_206
+  - first:
+      213: -7116276929118883770
+    second: foodfromcts1a_207
+  - first:
+      213: -3718052456252612678
+    second: foodfromcts1a_208
+  - first:
+      213: -3471871633889487936
+    second: foodfromcts1a_209
+  - first:
+      213: -6776961824623040360
+    second: foodfromcts1a_210
+  - first:
+      213: -6583687794753944358
+    second: foodfromcts1a_211
+  - first:
+      213: -156705154457050471
+    second: foodfromcts1a_212
+  - first:
+      213: -5802298527464709782
+    second: foodfromcts1a_213
+  - first:
+      213: -4015197805422424643
+    second: foodfromcts1a_214
+  - first:
+      213: 3387569275659402495
+    second: foodfromcts1a_215
+  - first:
+      213: -993741511811246075
+    second: foodfromcts1a_216
+  - first:
+      213: -7554286243537200404
+    second: foodfromcts1a_217
+  - first:
+      213: -3467987500835730146
+    second: foodfromcts1a_218
+  - first:
+      213: 6298700816556923953
+    second: foodfromcts1a_219
+  - first:
+      213: -595350584149653831
+    second: foodfromcts1a_220
+  - first:
+      213: -2247486621154642457
+    second: foodfromcts1a_221
+  - first:
+      213: -2626407190754486830
+    second: foodfromcts1a_222
+  - first:
+      213: 2080212658791060979
+    second: foodfromcts1a_223
+  - first:
+      213: 3255085186067388749
+    second: foodfromcts1a_224
+  - first:
+      213: -115844465911505117
+    second: foodfromcts1a_225
+  - first:
+      213: 5516222105607902066
+    second: foodfromcts1a_226
+  - first:
+      213: -8674140672437473370
+    second: foodfromcts1a_227
+  - first:
+      213: 2857505957658198210
+    second: foodfromcts1a_228
+  - first:
+      213: 7080685837441113367
+    second: foodfromcts1a_229
+  - first:
+      213: 8405231662590898257
+    second: foodfromcts1a_230
+  - first:
+      213: -5523434022686769047
+    second: foodfromcts1a_231
+  - first:
+      213: 6088266408335204967
+    second: foodfromcts1a_232
+  - first:
+      213: -4683563456159903479
+    second: foodfromcts1a_233
+  - first:
+      213: -5840983155034067480
+    second: foodfromcts1a_234
+  - first:
+      213: -9126126555473720180
+    second: foodfromcts1a_235
+  - first:
+      213: -1033886749550404013
+    second: foodfromcts1a_236
+  - first:
+      213: -7523591333481872051
+    second: foodfromcts1a_237
+  - first:
+      213: 8378207075379132786
+    second: foodfromcts1a_238
+  - first:
+      213: -5797683175493911988
+    second: foodfromcts1a_239
+  - first:
+      213: -659019181915563955
+    second: foodfromcts1a_240
+  - first:
+      213: 2732986932726736235
+    second: foodfromcts1a_241
+  - first:
+      213: 5560315551585969671
+    second: foodfromcts1a_242
+  - first:
+      213: 8663925207476944482
+    second: foodfromcts1a_243
+  - first:
+      213: -8431366136574858245
+    second: foodfromcts1a_244
+  - first:
+      213: -3921139432785505838
+    second: foodfromcts1a_245
+  - first:
+      213: 1927829970629996818
+    second: foodfromcts1a_246
+  - first:
+      213: 4040886047834122616
+    second: foodfromcts1a_247
+  - first:
+      213: 7942044358598346422
+    second: foodfromcts1a_248
+  - first:
+      213: 6299445794621244889
+    second: foodfromcts1a_249
+  - first:
+      213: 7739596471928521849
+    second: foodfromcts1a_250
+  - first:
+      213: 4440062832314179073
+    second: foodfromcts1a_251
+  - first:
+      213: 9125663122959239250
+    second: foodfromcts1a_252
+  - first:
+      213: -9011751289426964993
+    second: foodfromcts1a_253
+  - first:
+      213: 8053716494454700558
+    second: foodfromcts1a_254
+  - first:
+      213: 5110138015469583979
+    second: foodfromcts1a_255
+  - first:
+      213: -5932608240708111529
+    second: foodfromcts1a_256
+  - first:
+      213: 7920339610063187296
+    second: foodfromcts1a_257
+  - first:
+      213: -1794639695001803865
+    second: foodfromcts1a_258
+  - first:
+      213: 1903367343160681439
+    second: foodfromcts1a_259
+  - first:
+      213: 120787478872828191
+    second: foodfromcts1a_260
+  - first:
+      213: 1114274601415623880
+    second: foodfromcts1a_261
+  - first:
+      213: -9037946477191992003
+    second: foodfromcts1a_262
+  - first:
+      213: -4653693057073328423
+    second: foodfromcts1a_263
+  - first:
+      213: -8021679258556544830
+    second: foodfromcts1a_264
+  - first:
+      213: -4500071074299572157
+    second: foodfromcts1a_265
+  - first:
+      213: 5451962098500624540
+    second: foodfromcts1a_266
+  - first:
+      213: 6225179627452342933
+    second: foodfromcts1a_267
+  - first:
+      213: 8699125328210345935
+    second: foodfromcts1a_268
+  - first:
+      213: 6783481418442902219
+    second: foodfromcts1a_269
+  - first:
+      213: -6903992962930937598
+    second: foodfromcts1a_270
+  - first:
+      213: 4875898396456180278
+    second: foodfromcts1a_271
+  - first:
+      213: 3462063183829920236
+    second: foodfromcts1a_272
+  - first:
+      213: -8941807529343159690
+    second: foodfromcts1a_273
+  - first:
+      213: 6028846317354297472
+    second: foodfromcts1a_274
+  - first:
+      213: 8794247068141577034
+    second: foodfromcts1a_275
+  - first:
+      213: 5069423887933121677
+    second: foodfromcts1a_276
+  - first:
+      213: -2576070804553980904
+    second: foodfromcts1a_277
+  - first:
+      213: -4591825771399172260
+    second: foodfromcts1a_278
+  - first:
+      213: -369718382178615265
+    second: foodfromcts1a_279
+  - first:
+      213: 5553681245463109597
+    second: foodfromcts1a_280
+  - first:
+      213: 305732944346219215
+    second: foodfromcts1a_281
+  - first:
+      213: 5149698693047966836
+    second: foodfromcts1a_282
+  - first:
+      213: -1839553068635981480
+    second: foodfromcts1a_283
+  - first:
+      213: -8958121781740476768
+    second: foodfromcts1a_284
+  - first:
+      213: 6871108936756496082
+    second: foodfromcts1a_285
+  - first:
+      213: 7388137557400894832
+    second: foodfromcts1a_286
+  - first:
+      213: -5946492346753349312
+    second: foodfromcts1a_287
+  - first:
+      213: 6365724811401279671
+    second: foodfromcts1a_288
+  - first:
+      213: -5571312170637828924
+    second: foodfromcts1a_289
+  - first:
+      213: 5830705276659923426
+    second: foodfromcts1a_290
+  - first:
+      213: 6279941667514028116
+    second: foodfromcts1a_291
+  - first:
+      213: 8632123367963223995
+    second: foodfromcts1a_292
+  - first:
+      213: -7236767289985483229
+    second: foodfromcts1a_293
+  - first:
+      213: -4852875963085761181
+    second: foodfromcts1a_294
+  - first:
+      213: 7367753173485964394
+    second: foodfromcts1a_295
+  - first:
+      213: -1724586221249291280
+    second: foodfromcts1a_296
+  - first:
+      213: 6783550874778594092
+    second: foodfromcts1a_297
+  - first:
+      213: -1734847113752071176
+    second: foodfromcts1a_298
+  - first:
+      213: -5999937480022349063
+    second: foodfromcts1a_299
+  - first:
+      213: 2742396508486958652
+    second: foodfromcts1a_300
+  - first:
+      213: 8784806279253305924
+    second: foodfromcts1a_301
+  - first:
+      213: 5666076223464172650
+    second: foodfromcts1a_302
+  - first:
+      213: 8754764455436299631
+    second: foodfromcts1a_303
+  - first:
+      213: -2875435849652019074
+    second: foodfromcts1a_304
+  - first:
+      213: 8489218379727399481
+    second: foodfromcts1a_305
+  - first:
+      213: 8283282347281657389
+    second: foodfromcts1a_306
+  - first:
+      213: 8932271480423766166
+    second: foodfromcts1a_307
+  - first:
+      213: 2125594845017185546
+    second: foodfromcts1a_308
+  - first:
+      213: 8977278866403151405
+    second: foodfromcts1a_309
+  - first:
+      213: 2086500066016427173
+    second: foodfromcts1a_310
+  - first:
+      213: -3241938555494280901
+    second: foodfromcts1a_311
+  - first:
+      213: -7085790883214036678
+    second: foodfromcts1a_312
+  - first:
+      213: 7078578514726768
+    second: foodfromcts1a_313
+  - first:
+      213: 3654630368378813164
+    second: foodfromcts1a_314
+  - first:
+      213: -9168275626985112614
+    second: foodfromcts1a_315
+  - first:
+      213: 4907108865630527803
+    second: foodfromcts1a_316
+  - first:
+      213: 1716761503156508611
+    second: foodfromcts1a_317
+  - first:
+      213: -8179768370277730338
+    second: foodfromcts1a_318
+  - first:
+      213: -1317652091096099198
+    second: foodfromcts1a_319
+  - first:
+      213: -7827712706604044922
+    second: foodfromcts1a_320
+  - first:
+      213: 667096011122564449
+    second: foodfromcts1a_321
+  - first:
+      213: -3437249467577745856
+    second: foodfromcts1a_322
+  - first:
+      213: 8011143549346461293
+    second: foodfromcts1a_323
+  - first:
+      213: -5303266737557595071
+    second: foodfromcts1a_324
+  - first:
+      213: 6792308839201278244
+    second: foodfromcts1a_325
+  - first:
+      213: 988467753457845203
+    second: foodfromcts1a_326
+  - first:
+      213: -5922998084187537607
+    second: foodfromcts1a_327
+  - first:
+      213: 2255250219787139240
+    second: foodfromcts1a_328
+  - first:
+      213: -8904046097820052385
+    second: foodfromcts1a_329
+  - first:
+      213: -8654590592613975624
+    second: foodfromcts1a_330
+  - first:
+      213: 5169561345348607897
+    second: foodfromcts1a_331
+  - first:
+      213: -6646963440724886369
+    second: foodfromcts1a_332
+  - first:
+      213: 2434266805915839149
+    second: foodfromcts1a_333
+  - first:
+      213: -4561552468279385689
+    second: foodfromcts1a_334
+  - first:
+      213: 3469183900267349270
+    second: foodfromcts1a_335
+  - first:
+      213: 2868343407528434843
+    second: foodfromcts1a_336
+  - first:
+      213: -7895336961309972966
+    second: foodfromcts1a_337
+  - first:
+      213: -2174203483026428015
+    second: foodfromcts1a_338
+  - first:
+      213: -4861132241117170766
+    second: foodfromcts1a_339
+  - first:
+      213: -5346763999987599619
+    second: foodfromcts1a_340
+  - first:
+      213: -6839510630681383577
+    second: foodfromcts1a_341
+  - first:
+      213: 1277640762818430065
+    second: foodfromcts1a_342
+  - first:
+      213: -1658943621187599191
+    second: foodfromcts1a_343
+  - first:
+      213: 6302498526837606437
+    second: foodfromcts1a_344
+  - first:
+      213: 7086276024196831290
+    second: foodfromcts1a_345
+  - first:
+      213: -5966422565347039065
+    second: foodfromcts1a_346
+  - first:
+      213: 8635969350759835166
+    second: foodfromcts1a_347
+  - first:
+      213: -5657388535807167455
+    second: foodfromcts1a_348
+  - first:
+      213: 922397495606418848
+    second: foodfromcts1a_349
+  - first:
+      213: 3315884384878876809
+    second: foodfromcts1a_350
+  - first:
+      213: -7845449933195133777
+    second: foodfromcts1a_351
+  - first:
+      213: 8968358798223421382
+    second: foodfromcts1a_352
+  - first:
+      213: 2591862726335873154
+    second: foodfromcts1a_353
+  - first:
+      213: -8702272641276171570
+    second: foodfromcts1a_354
+  - first:
+      213: -6070719196564937981
+    second: foodfromcts1a_355
+  - first:
+      213: 61053873546317280
+    second: foodfromcts1a_356
+  - first:
+      213: -7831868335071273572
+    second: foodfromcts1a_357
+  - first:
+      213: 8500479299736438889
+    second: foodfromcts1a_358
+  - first:
+      213: 1273484964474402707
+    second: foodfromcts1a_359
+  - first:
+      213: 379863479642847195
+    second: foodfromcts1a_360
+  - first:
+      213: -8010906318132632979
+    second: foodfromcts1a_361
+  - first:
+      213: 1255822498083653690
+    second: foodfromcts1a_362
+  - first:
+      213: 8464100209794702319
+    second: foodfromcts1a_363
+  - first:
+      213: 2035667161133016951
+    second: foodfromcts1a_364
+  - first:
+      213: 2536967035284861952
+    second: foodfromcts1a_365
+  - first:
+      213: 3772294697604779542
+    second: foodfromcts1a_366
+  - first:
+      213: 973205428302026892
+    second: foodfromcts1a_367
+  - first:
+      213: 5540994039499884522
+    second: foodfromcts1a_368
+  - first:
+      213: 1223942021554871287
+    second: foodfromcts1a_369
+  - first:
+      213: 2361824579444344948
+    second: foodfromcts1a_370
+  - first:
+      213: -2777211131979358950
+    second: foodfromcts1a_371
+  - first:
+      213: 8615913843544148948
+    second: foodfromcts1a_372
+  - first:
+      213: 811824997681218641
+    second: foodfromcts1a_373
+  - first:
+      213: 1354389246302314360
+    second: foodfromcts1a_374
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -46,7 +1171,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -87,7 +1212,2443 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: foodfromcts1a_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651a4731275cdf800800000000000000
+      internalID: 647891015154573654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001c4eb3dd691fe90800000000000000
+      internalID: -6993642869392883456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72584c2956d3a1d40800000000000000
+      internalID: 5555820596778272039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119015af8ec81a640800000000000000
+      internalID: 5089503986165287185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_4
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ba4d27b04182000800000000000000
+      internalID: 11281038472162139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_5
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071c80d6588f62250800000000000000
+      internalID: 5919692012168724848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_6
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb091ed8cd9aa4c0800000000000000
+      internalID: -4275431410189661206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_7
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d4fcadca3e1fdd0800000000000000
+      internalID: -2453929990395310808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_8
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a544ccd71cde68ca0800000000000000
+      internalID: -6014858837011708838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_9
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350012f71485fb6d0800000000000000
+      internalID: -2972560190712250285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_10
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9269d3692ba3606e0800000000000000
+      internalID: -1871744056426654167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_11
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63ad9e81da486730800000000000000
+      internalID: 3992523333565260652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_12
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eee5f085e0bba400800000000000000
+      internalID: 336557096926834404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_13
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccc70b686513cd60800000000000000
+      internalID: 7909188908809178319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_14
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7730f22b1e15310800000000000000
+      internalID: 1392141915243378634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_15
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10b36c48c90d93a0800000000000000
+      internalID: -6657153918304014307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_16
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e1f385d67f87340800000000000000
+      internalID: 4861907846750477865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_17
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e719b91560d136040800000000000000
+      internalID: 4639583954097901950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_18
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2e5a2a8a2ef7480800000000000000
+      internalID: -8899145124749647178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_19
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153da5851da591f20800000000000000
+      internalID: 3393843649377391441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_20
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97534f02b5cc525f0800000000000000
+      internalID: -781994268511947399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_21
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98eeb20e8f7c81790800000000000000
+      internalID: -7559072102814585207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_22
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8728afa5890849e90800000000000000
+      internalID: -7019844527314009480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_23
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2146c6bd56d0d70800000000000000
+      internalID: 9010970422528971470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_24
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d7d842947f38ab0800000000000000
+      internalID: -5006886467187933924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_25
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffe1cc689d43b050800000000000000
+      internalID: 5815076860920459261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_26
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0695cb368b2f5d630800000000000000
+      internalID: 3951331121848670560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_27
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d798f25fdf27610800000000000000
+      internalID: 1617634445685783916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_28
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6675244c54e866370800000000000000
+      internalID: 8315490192282769254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_29
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e142456db76132200800000000000000
+      internalID: 153991533393355806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_30
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f9d10d0fc6129c0800000000000000
+      internalID: -3953759216315031649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_31
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c554dd015c6154620800000000000000
+      internalID: 2757635382481601884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_32
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f8f8ac335da2fe0800000000000000
+      internalID: -1212922731204473052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_33
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0458fb34b5c9ed00800000000000000
+      internalID: 1002549769957561357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_34
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491d19151dd112e30800000000000000
+      internalID: 4476892289436864916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_35
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055a0f31d2f08bea0800000000000000
+      internalID: -5856914629112847024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_36
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c38695ce60356a20800000000000000
+      internalID: 3054901174560261062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_37
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ecf107a685dd0d0800000000000000
+      internalID: -3396461329796575730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_38
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540bb4cf718cc8fa0800000000000000
+      internalID: -5797038614990049211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_39
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1f4aaebb14a0420800000000000000
+      internalID: 2596960410483880352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_40
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0aa13b0de4bb9e0800000000000000
+      internalID: -1604602183962419030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_41
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0cf9f5032bc78a0800000000000000
+      internalID: -6305969457393057593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_42
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f008373b8028dedb0800000000000000
+      internalID: -4761006257178705905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_43
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0b5ecf6dca254e0800000000000000
+      internalID: -1994341645605818157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_44
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17df4bd078992d4e0800000000000000
+      internalID: -1958334082623144591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_45
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce7be9ebd383b6e0800000000000000
+      internalID: -1822968443609317687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_46
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a9ac568216dc300800000000000000
+      internalID: 273981978473831043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_47
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8aacecdd0d62810800000000000000
+      internalID: 1740307957101013176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_48
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d999f4c1b88ef04c0800000000000000
+      internalID: -4318977833451939427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_49
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13df5f8c40bbc2a70800000000000000
+      internalID: 8803617000828304689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_50
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2b08ae43ec99120800000000000000
+      internalID: 2421193001356276416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_51
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78913d5cbe71f0df0800000000000000
+      internalID: -211924356059424377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_52
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c4fae3a5cb5c010800000000000000
+      internalID: 1208579170803600461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_53
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbbddc107deee390800000000000000
+      internalID: -7787025639900595275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_54
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8e4a7ab17c27650800000000000000
+      internalID: 6229260156197464297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_55
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef9d3d6d551a3450800000000000000
+      internalID: 6069186938844061671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_56
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2d99ca0902d0e20800000000000000
+      internalID: 3318344306185065177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_57
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586a1151536984b80800000000000000
+      internalID: -8410307149383489915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_58
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72530a5f77d1c790800000000000000
+      internalID: -7511485761506291073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_59
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d53dd274d3b6d30800000000000000
+      internalID: 4425698434742443335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_60
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b74d5b39f050de0800000000000000
+      internalID: -1367669784751867091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_61
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a1b00a234547fa0800000000000000
+      internalID: -5803921443363546469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_62
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741e768457b0727d0800000000000000
+      internalID: -2943371233109483193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_63
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed968fc966d3a4f0800000000000000
+      internalID: -818574957309682198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_64
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fd45679a58cfe00800000000000000
+      internalID: 1079884973543317260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_65
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e613d68b991d60b0800000000000000
+      internalID: -5733898594800167199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_66
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f2c5177ff3a5e70800000000000000
+      internalID: 9104659928674217729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_67
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e7bb1b44a396960800000000000000
+      internalID: 7595666313251094034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_68
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3f6eb5e6eea1610800000000000000
+      internalID: 1592847575984567265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_69
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42c28595adacc250800000000000000
+      internalID: 5966334533048648270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_70
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3f2b88f2809dee0800000000000000
+      internalID: -1235947622486576179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_71
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6371038882016450800000000000000
+      internalID: 6080143757263598443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_72
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabd450964161b280800000000000000
+      internalID: -9029328822204048466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_73
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7574b97fbd388b0800000000000000
+      internalID: -5151031692273166374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_74
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d67927caf8af43b0800000000000000
+      internalID: -5526012422723635501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_75
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715acfeff29fe8720800000000000000
+      internalID: 2850489598708851991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_76
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66673fd7680dbce20800000000000000
+      internalID: 3372018022074250854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_77
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133c71814187ad870800000000000000
+      internalID: 8708404857173164849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_78
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff55f2a37ea0ce550800000000000000
+      internalID: 6191335575957493247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_79
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56bb43a85e7a4ba0800000000000000
+      internalID: -6103927425785416101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_80
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ac9ca7f9b2b3f90800000000000000
+      internalID: -6972931634093241706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_81
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332475162be3eeaa0800000000000000
+      internalID: -6129893106946457037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_82
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9354ff8ab7c609aa0800000000000000
+      internalID: -6156301412243389127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_83
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51b238d229194350800000000000000
+      internalID: 6001355615894679901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_84
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9f9708e9c0b4f20800000000000000
+      internalID: 3407831417935755733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_85
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703dcff55ca6164e0800000000000000
+      internalID: -1990192164369542393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_86
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f51d0611944432e0800000000000000
+      internalID: -2147015732417980938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_87
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c3fd1d21e2ee040800000000000000
+      internalID: 4678727721249881157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_88
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a77aa5e2e722ed0800000000000000
+      internalID: -2440249310526866893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_89
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c4a7639a5839ef0800000000000000
+      internalID: -102591404689437567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_90
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5c6ae1cc4bf9ef0800000000000000
+      internalID: -99161877998287372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_91
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006466fcb1257c250800000000000000
+      internalID: 5964826510872692224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_92
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d600452a093476ab0800000000000000
+      internalID: -5014965371575992211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_93
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8164cac59f826fe0800000000000000
+      internalID: -1197236677412363892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_94
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e035c5118318370800000000000000
+      internalID: 8322995233571933748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_95
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f37d69e82c8e9180800000000000000
+      internalID: -9106687289153719309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_96
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddedea7b8889feb0800000000000000
+      internalID: -4685563804658045481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_97
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beac39a1bca5a2e50800000000000000
+      internalID: 6785335616957827819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_98
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41136a3b60020ef20800000000000000
+      internalID: 3449792527721705748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_99
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b28e9a17b42c24f0800000000000000
+      internalID: -852265860635655498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_100
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a904220ae547dde50800000000000000
+      internalID: 6835747759180628122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_101
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321060c355947a8f0800000000000000
+      internalID: -529373800764669661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_102
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3db5e2339c970220800000000000000
+      internalID: 2452100678154566972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_103
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad0a764aa53ca150800000000000000
+      internalID: 5885137818509512099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_104
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6834883b4ad4e4590800000000000000
+      internalID: -7688122144092830842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_105
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cb5cbdb76e95ff0800000000000000
+      internalID: -46752901468144487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_106
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca52e4930318d6a90800000000000000
+      internalID: -7319051775287351892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_107
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c14a57a03af1d930800000000000000
+      internalID: 4166386217167503815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_108
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0a45a8141fd2df0800000000000000
+      internalID: -203241144365834043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_109
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960e53df70c1c4600800000000000000
+      internalID: 453768483096092777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_110
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d374cee9a5cb29300800000000000000
+      internalID: 257475226112902973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_111
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f8d6c786999d4e0800000000000000
+      internalID: -1956363889072566453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_112
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19d47562170ab090800000000000000
+      internalID: -8018088410986784481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_113
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aaeb220e89712950800000000000000
+      internalID: 6422548194435787429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_114
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4b42c314317b980800000000000000
+      internalID: -8523322598872533830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodfromcts1a_115
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d9df7d4aee2a410800000000000000
+      internalID: 1487013218751454559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
