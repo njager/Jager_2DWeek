@@ -80,13 +80,13 @@ public class PlayerMovement : MonoBehaviour
         rB2D.velocity = new Vector2(rB2D.velocity.x, jumpSpeed);
     }
     
-    private void OnTriggerEnter2D(Collision2D other)
+    private void OnCollisionEnter2D(Collision2D other)
     {
         if (other.gameObject.CompareTag("PickUp"))
         {
             other.gameObject.SetActive(false);
             count += 1;
-
+            
             SetCountText();
         }
     }
