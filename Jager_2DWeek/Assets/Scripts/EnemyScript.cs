@@ -6,6 +6,7 @@ public class EnemyScript : MonoBehaviour
 {
     //public variables
     public float enemySpeed;
+    public SpriteRenderer spriteRenderer;
 
     //member variables
     Rigidbody2D eRB;
@@ -34,7 +35,6 @@ public class EnemyScript : MonoBehaviour
         if (walkingL == true)
         {
             eRB.velocity = new Vector2(-enemySpeed * Time.deltaTime, eRB.velocity.y);
-            print("Is walking left");
         }
         else if (walkingR == true)
         {
@@ -50,12 +50,13 @@ public class EnemyScript : MonoBehaviour
             {
                 walkingL = true;
                 walkingR = false;
-                print("Hit left wall");
+                spriteRenderer.flipX = true;
             }
             else
             {
                 walkingL = false;
                 walkingR = true;
+                spriteRenderer.flipX = false;
             }
         }
     }
