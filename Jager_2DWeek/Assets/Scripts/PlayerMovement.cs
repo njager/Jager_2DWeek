@@ -103,6 +103,7 @@ public class PlayerMovement : MonoBehaviour
         if (other.gameObject.CompareTag("Enemy"))
         {
             other.gameObject.SetActive(false);
+            Jump();
         }
     }
 }
