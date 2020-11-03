@@ -14,8 +14,10 @@ public class PlayerMovement : MonoBehaviour
     //public variables
     public float runSpeed;
     public float jumpSpeed;
-    public TextMeshProUGUI countText;
+    public int winCount;
 
+    public GameObject winTextObject;
+    public TextMeshProUGUI countText;
     public Animator animator;
     public SpriteRenderer spriteRenderer;
     public AudioClip munchSFX;
@@ -26,6 +28,8 @@ public class PlayerMovement : MonoBehaviour
     {
         rB2D = GetComponent<Rigidbody2D>();
         audioSource = GetComponent<AudioSource>();
+
+        winTextObject.SetActive(false);
 
         SetCountText();
     }
@@ -47,6 +51,11 @@ public class PlayerMovement : MonoBehaviour
             {
                 Jump();
             }
+        }
+
+        if (count >= winCount)
+        {
+            winTextObject.SetActive(true);
         }
     }
 
