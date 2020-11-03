@@ -30,16 +30,8 @@ public class PlayerMovement : MonoBehaviour
     //Updates count text with current data, displays win text
     void SetCountText()
     {
-        countText.text = "Count: " + count.ToString();
+        countText.text = "Fries: " + count.ToString();
     }
-
-    /*
-    void UpdateCountText()
-    {
-        count += 1;
-        SetCountText();
-    }
-    */
 
     // Update is called once per frame
     void Update()
