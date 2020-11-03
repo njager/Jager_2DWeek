@@ -3062,6 +3062,8 @@ MonoBehaviour:
   countText: {fileID: 897974330}
   animator: {fileID: 431687446}
   spriteRenderer: {fileID: 431687445}
+  munchSFX: {fileID: 8300000, guid: 42e21bcd7b7105447be696a6f31a2ee6, type: 3}
+  cawSFX: {fileID: 8300000, guid: 0a61329b30798ad47b1b08030cc50180, type: 3}
 --- !u!82 &1271418927
 AudioSource:
   m_ObjectHideFlags: 0
@@ -3072,8 +3074,8 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
-  m_PlayOnAwake: 1
+  m_audioClip: {fileID: 8300000, guid: 42e21bcd7b7105447be696a6f31a2ee6, type: 3}
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0

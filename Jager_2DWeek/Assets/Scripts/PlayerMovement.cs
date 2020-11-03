@@ -8,6 +8,7 @@ public class PlayerMovement : MonoBehaviour
 {
     //member variables
     Rigidbody2D rB2D;
+    AudioSource audioSource;
     private int count;
 
     //public variables
@@ -24,6 +25,8 @@ public class PlayerMovement : MonoBehaviour
     void Start()
     {
         rB2D = GetComponent<Rigidbody2D>();
+        audioSource = GetComponent<AudioSource>();
+
         SetCountText();
     }
 
@@ -91,6 +94,7 @@ public class PlayerMovement : MonoBehaviour
         {
             other.gameObject.SetActive(false);
             count += 1;
+            audioSource.PlayOneShot(munchSFX);
 
             SetCountText();
         }
@@ -98,6 +102,7 @@ public class PlayerMovement : MonoBehaviour
         else if (other.gameObject.CompareTag("Enemy"))
         {
             other.gameObject.SetActive(false);
+            audioSource.PlayOneShot(cawSFX);
             Jump();
         }
     }
