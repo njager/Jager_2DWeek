@@ -69,10 +69,10 @@ public class PlayerMovement : MonoBehaviour
 
         if (Mathf.Abs(horizontalInput) > 0f)
         {
-            animator.SetBool("IsRunning", true);
+            animator.SetBool("IsWalking", true);
         }
         else
-            animator.SetBool("IsRunning", false);
+            animator.SetBool("IsWalking", false);
     }
 
     void Jump()
