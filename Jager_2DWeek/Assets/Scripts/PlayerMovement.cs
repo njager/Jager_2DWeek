@@ -57,6 +57,10 @@ public class PlayerMovement : MonoBehaviour
         {
             winTextObject.SetActive(true);
         }
+        else if (rB2D.transform.position.y <= -15f)
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        }
     }
 
     private void FixedUpdate()
