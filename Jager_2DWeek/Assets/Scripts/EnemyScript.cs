@@ -17,6 +17,7 @@ public class EnemyScript : MonoBehaviour
     {
         eRB = GetComponent<Rigidbody2D>();
 
+        walkingL = false;
         walkingR = true;
     }
 
@@ -29,9 +30,19 @@ public class EnemyScript : MonoBehaviour
     private void FixedUpdate()
     {
         eRB.velocity = new Vector2(enemySpeed * Time.deltaTime, eRB.velocity.y);
+
+        if (walkingL == true)
+        {
+            eRB.velocity = -eRB.velocity;
+            print("Is walking left");
+        }
+        else if (walkingR == true)
+        {
+            eRB.velocity = -eRB.velocity;
+        }
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.CompareTag("Sign"))
         {
@@ -39,6 +50,7 @@ public class EnemyScript : MonoBehaviour
             {
                 walkingL = true;
                 walkingR = false;
+                print("Hit left wall");
             }
             else
             {
@@ -46,6 +58,5 @@ public class EnemyScript : MonoBehaviour
                 walkingR = true;
             }
         }
-        
     }
 }
