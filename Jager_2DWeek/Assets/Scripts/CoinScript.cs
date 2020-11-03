@@ -5,8 +5,7 @@ using UnityEngine;
 public class CoinScript : MonoBehaviour
 {
     //private variables
-    GameObject coinObject;
-    
+
     //public variables
     
 
@@ -20,6 +19,7 @@ public class CoinScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-       // coinObject.transform();
+        transform.Rotate(new Vector3(0, 90, 0) * Time.deltaTime);
     }
+
 }

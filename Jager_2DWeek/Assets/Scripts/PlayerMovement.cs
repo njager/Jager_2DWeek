@@ -29,6 +29,13 @@ public class PlayerMovement : MonoBehaviour
         countText.text = "Count: " + count.ToString();
     }
 
+    /*
+    void UpdateCountText()
+    {
+        count += 1;
+        SetCountText();
+    }
+    */
 
     // Update is called once per frame
     void Update()
@@ -72,13 +79,15 @@ public class PlayerMovement : MonoBehaviour
     {
         rB2D.velocity = new Vector2(rB2D.velocity.x, jumpSpeed);
     }
-
-    //collect coin and add score
-    private void OnCollisionEnter2D(Collision2D collision)
+    
+    private void OnTriggerEnter2D(Collision2D other)
     {
-        if (collision.gameObject.CompareTag("PickUp"))
+        if (other.gameObject.CompareTag("PickUp"))
         {
+            other.gameObject.SetActive(false);
+            count += 1;
 
+            SetCountText();
         }
     }
 }
