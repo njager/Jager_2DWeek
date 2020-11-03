@@ -33,12 +33,12 @@ public class EnemyScript : MonoBehaviour
 
         if (walkingL == true)
         {
-            eRB.velocity = -eRB.velocity;
+            eRB.velocity = new Vector2(-enemySpeed * Time.deltaTime, eRB.velocity.y);
             print("Is walking left");
         }
         else if (walkingR == true)
         {
-            eRB.velocity = -eRB.velocity;
+            eRB.velocity = new Vector2(enemySpeed * Time.deltaTime, eRB.velocity.y);
         }
     }
 
