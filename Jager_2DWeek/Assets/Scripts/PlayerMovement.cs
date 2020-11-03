@@ -17,6 +17,8 @@ public class PlayerMovement : MonoBehaviour
 
     public Animator animator;
     public SpriteRenderer spriteRenderer;
+    public AudioClip munchSFX;
+    public AudioClip cawSFX;
 
     // Start is called before the first frame update
     void Start()
