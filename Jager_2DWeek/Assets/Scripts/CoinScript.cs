@@ -4,19 +4,7 @@ using UnityEngine;
 
 public class CoinScript : MonoBehaviour
 {
-    //private variables
-
-    //public variables
-    
-
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    
-    // Update is called once per frame
+    // Update is called once per frame ; rotates coin
     void Update()
     {
         transform.Rotate(new Vector3(0, 90, 0) * Time.deltaTime);

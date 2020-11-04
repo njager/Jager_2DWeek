@@ -22,26 +22,25 @@ public class EnemyScript : MonoBehaviour
         walkingR = true;
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
+    //called last every frame
     private void FixedUpdate()
     {
+        //sets a positive x velocity ofr enemy
         eRB.velocity = new Vector2(enemySpeed * Time.deltaTime, eRB.velocity.y);
 
+        //if enemy has hit the left edge, walk right
         if (walkingL == true)
         {
             eRB.velocity = new Vector2(-enemySpeed * Time.deltaTime, eRB.velocity.y);
         }
+        ///if enemy has hit right edge, walk left
         else if (walkingR == true)
         {
             eRB.velocity = new Vector2(enemySpeed * Time.deltaTime, eRB.velocity.y);
         }
     }
 
+    //called when the enemy enters a trigger, that being the edge of the map
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.CompareTag("Sign"))
