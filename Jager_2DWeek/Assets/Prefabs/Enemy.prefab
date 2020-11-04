@@ -149,7 +149,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 24e15476927e83c4c97765617f4c65c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemySpeed: 100
+  enemySpeed: 200
+  spriteRenderer: {fileID: 0}
 --- !u!61 &7316931663298834202
 BoxCollider2D:
   m_ObjectHideFlags: 0
